@@ -1,0 +1,12 @@
+{
+  "name": "react-native-selectors",
+  "version": "1.0.0",
+  "source": "index",
+  "repository": "https://github.com/jihoobyeon/react-native-selectors",
+  "author": "Jihoo Byeon <jihoobyeon@gmail.com> (https://github.com/jihoobyeon)",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/jihoobyeon/react-native-selectors/issues"
+  },
+  "homepage": "https://github.com/jihoobyeon/react-native-selectors#readme"
+}
